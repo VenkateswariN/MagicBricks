@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-02T12:50:28 IST" name="Default suite" finished-at="2023-03-02T12:51:14 IST" duration-ms="45941">
+    <groups>
+    </groups>
+    <test started-at="2023-03-02T12:50:28 IST" name="Default test" finished-at="2023-03-02T12:51:14 IST" duration-ms="45941">
+      <class name="PageFactory.SearchTest">
+        <test-method signature="verification1()[pri:0, instance:PageFactory.SearchTest@611889f4]" started-at="2023-03-02T12:50:28 IST" name="verification1" finished-at="2023-03-02T12:50:39 IST" duration-ms="11096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification1 -->
+        <test-method signature="verification2()[pri:0, instance:PageFactory.SearchTest@611889f4]" started-at="2023-03-02T12:50:39 IST" name="verification2" finished-at="2023-03-02T12:50:47 IST" duration-ms="7676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification2 -->
+        <test-method signature="verification3()[pri:0, instance:PageFactory.SearchTest@611889f4]" started-at="2023-03-02T12:50:47 IST" name="verification3" finished-at="2023-03-02T12:50:56 IST" duration-ms="8938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification3 -->
+        <test-method signature="verification4()[pri:0, instance:PageFactory.SearchTest@611889f4]" started-at="2023-03-02T12:50:56 IST" name="verification4" finished-at="2023-03-02T12:51:06 IST" duration-ms="10447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification4 -->
+        <test-method signature="verification5()[pri:0, instance:PageFactory.SearchTest@611889f4]" started-at="2023-03-02T12:51:06 IST" name="verification5" finished-at="2023-03-02T12:51:14 IST" duration-ms="7728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification5 -->
+      </class> <!-- PageFactory.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
